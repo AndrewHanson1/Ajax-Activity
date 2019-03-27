@@ -1,0 +1,23 @@
+.container-fluid{
+    text-align: center;
+
+}
+
+#buttons-here, .search{
+    display: inline-block;
+    color: white;
+    margin: 15px;
+}
+
+button{
+    margin: 5px;
+}
+
+.gifs {
+    display: inline-block;
+    
+    float: left;
+    padding: 15px;
+    color: white;
+    font-size: 25px;
+}
